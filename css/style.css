@@ -1,0 +1,47 @@
+
+body {
+    
+    background: linear-gradient(45deg, #121212 0%, #5e5e5e 100%)
+
+}
+
+a {
+    color: #121212;
+    font-size: 200%;
+}
+
+img {
+    width: 10%;
+}
+
+#map {
+    height: 500px;
+}
+
+span {
+    color: #7FFF00;
+    font-size: 150%;
+}
+
+.logoimg {
+    width: 60%;
+
+}
+
+h1 {
+    color: #7FFF00;
+}
+
+.bg-primary {
+    background-image: linear-gradient(to right top, #1dded9, #00e6c0, #2deb98, #6fed64, #a8eb12)!important;
+}
+
+.bg-dark {
+    background-image: linear-gradient(to right top, #1dded9, #00e6c0, #2deb98, #6fed64, #a8eb12)!important;
+
+}
+
+.bg-danger {
+    background-image: linear-gradient(to right top, #5309f2, #6d06f3, #8206f4, #9407f5, #a50cf6);
+
+}
